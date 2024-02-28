@@ -1,4 +1,4 @@
-FROM docker.io/alpine:latest
+FROM docker.io/alpine:3.17
 
 USER root
 # install mariadb(,-backup,-client) and bash packages
